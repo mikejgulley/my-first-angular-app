@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyFirstAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
@@ -30,4 +29,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # my-first-angular-app
 My first angular app - created during "Angular 4 - The Complete Guide" course on Udemy.
->>>>>>> 7562a90db75d3d1ae3cca3bf1017f69b30cce5e1
